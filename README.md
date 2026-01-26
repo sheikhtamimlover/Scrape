@@ -89,4 +89,4 @@ For personal contact, scraping requests, or collaborations:
 
 ## License
 
-[Specify license if applicable]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
